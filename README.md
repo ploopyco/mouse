@@ -4,15 +4,15 @@ By some stroke of luck, you've made your way here. The Ploopy Mouse. Your life w
 
 If you're looking to get your hands on a QMK-powered mouse, [check out our store link](https://www.ploopy.co/shop/mouse/5)!
 
-This repository contains the schematic for the Ploopy Mouse. If you're looking for the firmware that gets shipped with every mouse, check out the [Ploopy Mouse QMK fork](https://github.com/ploopyco/qmk_firmware) (this is also a valid target for your QMK build environment).
+This repository contains the schematic for the Ploopy Mouse. If you're looking for the firmware that gets shipped with every mouse, check out the [QMK repository](https://github.com/qmk/qmk_firmware).
 
-QMK code for the Ploopy Mouse has been integrated into the [master of the QMK repository](https://github.com/qmk/qmk_firmware). If you prefer to get the latest code, look there. However, only code found in the official [Ploopy Mouse QMK fork](https://github.com/ploopyco/qmk_firmware) is guaranteed to be stable.
+As of this writing, we are currently shipping every Ploopy Mouse with [QMK Release Version 0.10.48](https://github.com/qmk/qmk_firmware/releases/tag/0.10.48), we we've vetted and guarantee to be stable. If you want, however, you can flash the latest version of QMK onto your device. Although we cannot guarantee that the build will be stable, the developers at QMK do an excellent job ensuring that stable, tested code is in the QMK repository.
 
 What are you waiting for? Your new life awaits.
 
 ## Under what license is this released?
 
-The firmware is released under GPLv3, as per the license requirements set out in the original [QMK firmware](https://github.com/qmk/qmk_firmware). The PCB schematic is released under OHL CERN v1.2. Check the respective LICENSE.md files for full license text.
+Everything in this repository is released under OHL CERN v1.2. Check the LICENSE.md file for full license text.
 
 # How to Flash New Firmware
 
