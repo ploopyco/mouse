@@ -6,7 +6,7 @@ If you're looking to get your hands on a QMK-powered mouse, [check out our store
 
 This repository contains the schematic for the Ploopy Mouse. If you're looking for the firmware that gets shipped with every mouse, check out the [QMK repository](https://github.com/qmk/qmk_firmware).
 
-As of this writing, we are currently shipping every Ploopy Mouse with [QMK Release Version 0.10.48](https://github.com/qmk/qmk_firmware/releases/tag/0.10.48), we we've vetted and guarantee to be stable. If you want, however, you can flash the latest version of QMK onto your device. Although we cannot guarantee that the build will be stable, the developers at QMK do an excellent job ensuring that stable, tested code is in the QMK repository.
+As of this writing, we are currently shipping every Ploopy Mouse with [QMK Release Version 0.10.48](https://github.com/qmk/qmk_firmware/releases/tag/0.10.48), which we've vetted and guarantee to be stable. If you want, however, you can flash the latest version of QMK onto your device. Although we cannot guarantee that the build will be stable, the developers at QMK do an excellent job ensuring that stable, tested code is in the QMK repository.
 
 What are you waiting for? Your new life awaits.
 
