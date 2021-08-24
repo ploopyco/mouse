@@ -2,7 +2,7 @@
 
 By some stroke of luck, you've made your way here. The Ploopy Mouse. Your life will never be the same.
 
-If you're looking to get your hands on a QMK-powered mouse, [check out our store link](https://www.ploopy.co/shop/mouse/5)!
+If you're looking to get your hands on a QMK-powered mouse, [check out our store link](https://ploopy.co/shop/mouse/)!
 
 This repository contains the schematic for the Ploopy Mouse. If you're looking for the firmware that gets shipped with every mouse, check out the [QMK repository](https://github.com/qmk/qmk_firmware).
 
